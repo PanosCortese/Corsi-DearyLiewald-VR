@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023-2026 Panagiotis Kourtesis
+Copyright (c) 2022-2026 Panagiotis Kourtesis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Scope: This licence covers the custom source code, scene generators, build
-scripts, eye-tracking/pupillometry drivers, and automated scoring scripts
-written for Corsi-VR and Deary-Liewald VR (DLRTT-VR). It does not cover the
-spoken audio instructions, instruction videos, and on-screen instruction texts
-(licensed under CC BY 4.0), third-party SDKs and Unity packages (which retain
-their own licences), or institutional logos (not licensed). See README.md,
-NOTICE.md, and THIRD_PARTY_NOTICES.md for details.
