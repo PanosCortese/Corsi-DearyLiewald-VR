@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use Corsi-VR or Deary-Liewald VR (DLRTT-VR), please cite the software and the validation study below."
+type: software
+title: "Corsi-VR & Deary-Liewald VR (DLRTT-VR): Immersive Virtual Reality Assessments of Visuospatial Working Memory and Psychomotor Reaction Time (Unity Project)"
+version: "2.0.0"
+date-released: "2026-10-30"
+license: MIT
+repository-code: "https://github.com/PanosCortese/Corsi-DearyLiewald-VR"
+url: "https://www.panoskourtesis.com/vr-cognitive-assessments"
+authors:
+  - family-names: Kourtesis
+    given-names: Panagiotis
+    orcid: "https://orcid.org/0000-0002-2914-1064"
+    affiliation: "The American College of Greece; National and Kapodistrian University of Athens; University of Edinburgh"
+keywords:
+  - virtual reality
+  - extended reality
+  - Corsi Block Task
+  - Deary-Liewald Reaction Time Task
+  - working memory
+  - psychomotor speed
+  - eye tracking
+  - pupillometry
+  - neuropsychological assessment
+  - Unity
+  - OpenXR
+abstract: >-
+  Open-source Unity 2021.3 LTS project containing the Corsi Block Test in
+  Virtual Reality (Corsi-VR) and the Deary-Liewald Reaction Time Task in
+  Virtual Reality (DLRTT-VR). Supports 12 hardware-tailored scenes across PC VR
+  (Varjo Aero / XR-3 / VR-3, HTC VIVE Pro Eye, Universal OpenXR PC) and
+  Standalone Android VR (HTC VIVE Focus Vision with 120 Hz eye tracking and
+  pupillometry, Meta Quest Pro with eye tracking, and Universal Standalone
+  OpenXR), with Gaze Dwell (0.5 s), 6DoF Controller Ray-Casting, and Hand
+  Tracking interactions.
+preferred-citation:
+  type: article
+  title: "Immersive virtual reality assessments of working memory and psychomotor skills: A comparison between immersive and non-immersive assessments"
+  authors:
+    - family-names: Kourtesis
+      given-names: Panagiotis
+      orcid: "https://orcid.org/0000-0002-2914-1064"
+    - family-names: Lizarraga
+      given-names: Andrea
+    - family-names: MacPherson
+      given-names: Sarah E.
+  journal: "Journal of Neuropsychology"
+  year: 2026
+  volume: 20
+  issue: 1
+  start: 115
+  end: 131
+  doi: "10.1111/jnp.70014"

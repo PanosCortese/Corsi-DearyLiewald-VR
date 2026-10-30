@@ -1,0 +1,60 @@
+{
+  "upload_type": "software",
+  "title": "Corsi-VR & Deary-Liewald VR (DLRTT-VR): Immersive Virtual Reality Assessments of Visuospatial Working Memory and Psychomotor Reaction Time (Unity Project)",
+  "version": "2.0.0",
+  "description": "<p>Open-source Unity 2021.3 LTS project for the <strong>Corsi Block Test in Virtual Reality (Corsi-VR)</strong> and the <strong>Deary-Liewald Reaction Time Task in Virtual Reality (DLRTT-VR)</strong>. Includes 12 hardware-tailored scenes and automated build pipelines for Windows 64-bit PC VR (Varjo Aero / XR-3 / VR-3 with 200 Hz eye tracking and pupillometry, HTC VIVE Pro Eye with 120 Hz SRanipal eye tracking and pupillometry, and Universal OpenXR PC VR) and Standalone Android OpenXR (HTC VIVE Focus Vision with 120 Hz eye tracking and pupillometry via <code>XR_HTC_eye_tracker</code>, Meta Quest Pro with eye tracking via <code>XR_EXT_eye_gaze_interaction</code>, and Universal Standalone OpenXR for Meta Quest 2/3/3S/Pro and VIVE Focus Vision/3).</p><p>Source code is licensed under the MIT License. Spoken audio instructions, demonstration videos, and on-screen instruction texts are licensed under CC BY 4.0. Third-party SDKs and packages retain their respective licences (see <code>NOTICE.md</code> and <code>THIRD_PARTY_NOTICES.md</code>).</p>",
+  "creators": [
+    {
+      "name": "Kourtesis, Panagiotis",
+      "affiliation": "The American College of Greece; National and Kapodistrian University of Athens; University of Edinburgh",
+      "orcid": "0000-0002-2914-1064"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "virtual reality",
+    "Corsi Block Test",
+    "Deary-Liewald Reaction Time Task",
+    "working memory",
+    "reaction time",
+    "eye tracking",
+    "pupillometry",
+    "neuropsychological assessment",
+    "Unity",
+    "OpenXR"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1111/jnp.70014",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.1109/TVCG.2023.3247062",
+      "relation": "isCitedBy",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.3390/virtualworlds2010002",
+      "relation": "isCitedBy",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.3390/virtualworlds3010004",
+      "relation": "isCitedBy",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.3390/virtualworlds3040027",
+      "relation": "isCitedBy",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://www.panoskourtesis.com/vr-cognitive-assessments",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ]
+}
